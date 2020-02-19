@@ -10,6 +10,7 @@
 * Open
 * Global
 * Generic
+* Sustainable
 
 # プログラミング環境としてmicro:bit makecodeを選んだ理由
 * オープンソースソフトウェア　及び　オープンソースハードウェアによって構築
